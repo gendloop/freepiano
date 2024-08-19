@@ -1,7 +1,7 @@
-# RepoName
+# freepiano
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/freepiano
 ```
